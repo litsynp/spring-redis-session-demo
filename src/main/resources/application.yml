@@ -5,3 +5,5 @@ spring:
     host: localhost
     password: testpass
     port: 6379
+  jpa:
+    open-in-view: false
